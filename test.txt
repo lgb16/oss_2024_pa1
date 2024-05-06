@@ -1,1 +1,2 @@
 This is merge test file
+issue2 merge test
